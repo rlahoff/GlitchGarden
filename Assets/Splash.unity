@@ -237,7 +237,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 3cf6ad6287cbf42068bcc210b8935350, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.215
+  m_Volume: 0.1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -615,6 +615,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   levelMusic:
   - {fileID: 0}
+  - {fileID: 8300000, guid: 3596af6336419914f9195b853b259812, type: 3}
+  - {fileID: 8300000, guid: 3596af6336419914f9195b853b259812, type: 3}
   - {fileID: 8300000, guid: 3596af6336419914f9195b853b259812, type: 3}
 --- !u!4 &1576441057
 Transform:

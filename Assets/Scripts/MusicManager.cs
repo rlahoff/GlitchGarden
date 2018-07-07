@@ -47,7 +47,13 @@ public class MusicManager : MonoBehaviour {
         {
             audioSource.clip = levelMusic[scene.buildIndex];
             audioSource.loop = true;
+            audioSource.volume = PPrefsMgr.GetMasterVolume();
             audioSource.Play();
         }
+    }
+
+    public void SetVolume(float volume)
+    {
+        audioSource.volume = volume;
     }
 }
