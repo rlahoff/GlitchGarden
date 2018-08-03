@@ -1,74 +1,74 @@
 fileFormatVersion: 2
-guid: eb4d2db65195e5a48a21b99ea8a03251
+guid: 6b221afc86fca96468d5b431aa5a75dc
 TextureImporter:
   fileIDToRecycleName:
-    21300000: chicken_idle1_0
-    21300002: chicken_idle1_1
-    21300004: chicken_idle1_2
-    21300006: chicken_idle1_3
-    21300008: chicken_idle1_4
-    21300010: chicken_idle1_5
-    21300012: chicken_idle1_6
-    21300014: chicken_idle1_7
-    21300016: chicken_idle1_8
-    21300018: chicken_idle1_9
-    21300020: chicken_idle1_10
-    21300022: chicken_idle1_11
-    21300024: chicken_idle1_12
-    21300026: chicken_idle1_13
-    21300028: chicken_idle1_14
-    21300030: chicken_idle1_15
-    21300032: chicken_idle1_16
-    21300034: chicken_idle1_17
-    21300036: chicken_idle1_18
-    21300038: chicken_idle1_19
-    21300040: chicken_idle1_20
-    21300042: chicken_idle1_21
-    21300044: chicken_idle1_22
-    21300046: chicken_idle1_23
-    21300048: chicken_idle1_24
-    21300050: chicken_idle1_25
-    21300052: chicken_idle1_26
-    21300054: chicken_idle1_27
-    21300056: chicken_idle1_28
-    21300058: chicken_idle1_29
-    21300060: chicken_idle1_30
-    21300062: chicken_idle1_31
-    21300064: chicken_idle1_32
-    21300066: chicken_idle1_33
-    21300068: chicken_idle1_34
-    21300070: chicken_idle1_35
-    21300072: chicken_idle1_36
-    21300074: chicken_idle1_37
-    21300076: chicken_idle1_38
-    21300078: chicken_idle1_39
-    21300080: chicken_idle1_40
-    21300082: chicken_idle1_41
-    21300084: chicken_idle1_42
-    21300086: chicken_idle1_43
-    21300088: chicken_idle1_44
-    21300090: chicken_idle1_45
-    21300092: chicken_idle1_46
-    21300094: chicken_idle1_47
-    21300096: chicken_idle1_48
-    21300098: chicken_idle1_49
-    21300100: chicken_idle1_50
-    21300102: chicken_idle1_51
-    21300104: chicken_idle1_52
-    21300106: chicken_idle1_53
-    21300108: chicken_idle1_54
-    21300110: chicken_idle1_55
-    21300112: chicken_idle1_56
-    21300114: chicken_idle1_57
-    21300116: chicken_idle1_58
-    21300118: chicken_idle1_59
-    21300120: chicken_idle1_60
-    21300122: chicken_idle1_61
-    21300124: chicken_idle1_62
-    21300126: chicken_idle1_63
-    21300128: chicken_idle1_64
-    21300130: chicken_idle1_65
-    21300132: chicken_idle1_66
+    21300000: idle1_0
+    21300002: idle1_1
+    21300004: idle1_2
+    21300006: idle1_3
+    21300008: idle1_4
+    21300010: idle1_5
+    21300012: idle1_6
+    21300014: idle1_7
+    21300016: idle1_8
+    21300018: idle1_9
+    21300020: idle1_10
+    21300022: idle1_11
+    21300024: idle1_12
+    21300026: idle1_13
+    21300028: idle1_14
+    21300030: idle1_15
+    21300032: idle1_16
+    21300034: idle1_17
+    21300036: idle1_18
+    21300038: idle1_19
+    21300040: idle1_20
+    21300042: idle1_21
+    21300044: idle1_22
+    21300046: idle1_23
+    21300048: idle1_24
+    21300050: idle1_25
+    21300052: idle1_26
+    21300054: idle1_27
+    21300056: idle1_28
+    21300058: idle1_29
+    21300060: idle1_30
+    21300062: idle1_31
+    21300064: idle1_32
+    21300066: idle1_33
+    21300068: idle1_34
+    21300070: idle1_35
+    21300072: idle1_36
+    21300074: idle1_37
+    21300076: idle1_38
+    21300078: idle1_39
+    21300080: idle1_40
+    21300082: idle1_41
+    21300084: idle1_42
+    21300086: idle1_43
+    21300088: idle1_44
+    21300090: idle1_45
+    21300092: idle1_46
+    21300094: idle1_47
+    21300096: idle1_48
+    21300098: idle1_49
+    21300100: idle1_50
+    21300102: idle1_51
+    21300104: idle1_52
+    21300106: idle1_53
+    21300108: idle1_54
+    21300110: idle1_55
+    21300112: idle1_56
+    21300114: idle1_57
+    21300116: idle1_58
+    21300118: idle1_59
+    21300120: idle1_60
+    21300122: idle1_61
+    21300124: idle1_62
+    21300126: idle1_63
+    21300128: idle1_64
+    21300130: idle1_65
+    21300132: idle1_66
   externalObjects: {}
   serializedVersion: 5
   mipmaps:
@@ -125,7 +125,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 2
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -136,7 +136,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   - serializedVersion: 2
     buildTarget: Standalone
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -147,7 +147,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   - serializedVersion: 2
     buildTarget: Windows Store Apps
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -158,7 +158,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   - serializedVersion: 2
     buildTarget: WebGL
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -171,13 +171,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chicken_idle1_0
+      name: idle1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1210
-        width: 148
-        height: 110
+        x: 76
+        y: 1223
+        width: 57
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,19 +185,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e18ee25be8515f4c8fc24064f25ce79
+      spriteID: e2a816b4813996f4dbb0ca7ee7df873e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_1
+      name: idle1_1
       rect:
         serializedVersion: 2
-        x: 148
-        y: 1210
-        width: 148
-        height: 110
+        x: 223
+        y: 1223
+        width: 58
+        height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,19 +205,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ae01210d17689247a0601d40c7a5f50
+      spriteID: 552c3658d95c2854692b12e7025775c5
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_2
+      name: idle1_2
       rect:
         serializedVersion: 2
-        x: 296
-        y: 1210
-        width: 148
-        height: 110
+        x: 370
+        y: 1223
+        width: 58
+        height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,19 +225,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a1ede68e63c10a45bf6cfb7f5425956
+      spriteID: 751100a1fffa15747a5598ef435ea31c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_3
+      name: idle1_3
       rect:
         serializedVersion: 2
-        x: 444
-        y: 1210
-        width: 148
-        height: 110
+        x: 518
+        y: 1223
+        width: 58
+        height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -245,19 +245,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 24046e4d69c59c34f987abab9ddc5801
+      spriteID: 32e28fcbad3cc2d40a5f41f31cbd7e0c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_4
+      name: idle1_4
       rect:
         serializedVersion: 2
-        x: 592
-        y: 1210
-        width: 148
-        height: 110
+        x: 666
+        y: 1223
+        width: 58
+        height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,19 +265,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d86b56480acfaa246a1029a7ef605e2f
+      spriteID: 914ffad7ced6312409cbfd4a2119b55f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_5
+      name: idle1_5
       rect:
         serializedVersion: 2
-        x: 740
-        y: 1210
-        width: 148
-        height: 110
+        x: 814
+        y: 1223
+        width: 58
+        height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -285,19 +285,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d58358d4b16f2ff479c6620693d615e0
+      spriteID: c59564da5e40e7d4880baeeb2cf0d5ad
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_6
+      name: idle1_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1100
-        width: 148
-        height: 110
+        x: 74
+        y: 1113
+        width: 60
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -305,19 +305,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31644312a2c9b824486a5d8e2f11226e
+      spriteID: 6dd8f0ea2a2dc1846a9737b688a88d6f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_7
+      name: idle1_7
       rect:
         serializedVersion: 2
-        x: 148
-        y: 1100
-        width: 148
-        height: 110
+        x: 222
+        y: 1113
+        width: 63
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -325,19 +325,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a416e2289fc756945890d9988a6d377d
+      spriteID: 03f67e4e016a6ec43830599dd952207b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_8
+      name: idle1_8
       rect:
         serializedVersion: 2
-        x: 296
-        y: 1100
-        width: 148
-        height: 110
+        x: 371
+        y: 1113
+        width: 64
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -345,19 +345,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e39ff3393933bb4f92fa438ad12db6a
+      spriteID: 99d2167655df364448e6b41aa6a072fe
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_9
+      name: idle1_9
       rect:
         serializedVersion: 2
-        x: 444
-        y: 1100
-        width: 148
-        height: 110
+        x: 519
+        y: 1113
+        width: 66
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -365,19 +365,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e530e458d4db6ca48b002cdd04a67f1d
+      spriteID: d32c1d89afbdb1747b5c1e0560ce0c48
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_10
+      name: idle1_10
       rect:
         serializedVersion: 2
-        x: 592
-        y: 1100
-        width: 148
-        height: 110
+        x: 668
+        y: 1113
+        width: 68
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -385,19 +385,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c091f1dbae81619478b1548d9a7191d4
+      spriteID: 2465d314e4de5444ab8793880c08054d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_11
+      name: idle1_11
       rect:
         serializedVersion: 2
-        x: 740
-        y: 1100
-        width: 148
-        height: 110
+        x: 816
+        y: 1113
+        width: 70
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -405,19 +405,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2066f6e6802bc54481816faea0ad360
+      spriteID: 1111be33bbdef2b4a94d4f475d0720db
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_12
+      name: idle1_12
       rect:
         serializedVersion: 2
-        x: 0
-        y: 990
-        width: 148
-        height: 110
+        x: 76
+        y: 1003
+        width: 70
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -425,19 +425,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9afe2d6dc35ee3142ba93ebfad3d5e79
+      spriteID: 9f39f9997efde994c957f5ee35950111
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_13
+      name: idle1_13
       rect:
         serializedVersion: 2
-        x: 148
-        y: 990
-        width: 148
-        height: 110
+        x: 224
+        y: 1003
+        width: 70
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -445,19 +445,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 166f894adbf7a6545b02ff54627a269b
+      spriteID: 5fd6042a6acb59d4fa4129f889c7ce6b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_14
+      name: idle1_14
       rect:
         serializedVersion: 2
-        x: 296
-        y: 990
-        width: 148
-        height: 110
+        x: 372
+        y: 1003
+        width: 70
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -465,19 +465,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab2d9609acd93fd42b9a1de715f88ad0
+      spriteID: f83f39441d83fbb4ab604a77eb6dcc4a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_15
+      name: idle1_15
       rect:
         serializedVersion: 2
-        x: 444
-        y: 990
-        width: 148
-        height: 110
+        x: 520
+        y: 1003
+        width: 70
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -485,19 +485,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a83b0b0bc02666f4fb9d73bface52198
+      spriteID: d7a6c290c85cbb34cac48426f435f7e0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_16
+      name: idle1_16
       rect:
         serializedVersion: 2
-        x: 592
-        y: 990
-        width: 148
-        height: 110
+        x: 668
+        y: 1003
+        width: 69
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -505,19 +505,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5efc57b026f08c3438c78d1a2d83ca1d
+      spriteID: 94e2c33d36910824a82f2f17e7201e66
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_17
+      name: idle1_17
       rect:
         serializedVersion: 2
-        x: 740
-        y: 990
-        width: 148
-        height: 110
+        x: 816
+        y: 1003
+        width: 69
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -525,19 +525,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba5279b64bdc00240a87213590f7f65a
+      spriteID: 3b692940b3c081849858ea33e9aaa6a4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_18
+      name: idle1_18
       rect:
         serializedVersion: 2
-        x: 0
-        y: 880
-        width: 148
-        height: 110
+        x: 76
+        y: 893
+        width: 69
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -545,19 +545,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5a896480da792e4188b1a21f1f27bc8
+      spriteID: ce287e0bdd3bc1c47b09b72707562116
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_19
+      name: idle1_19
       rect:
         serializedVersion: 2
-        x: 148
-        y: 880
-        width: 148
-        height: 110
+        x: 224
+        y: 893
+        width: 70
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -565,19 +565,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a547b2fc1ecfc0419dd19aca5ac34ee
+      spriteID: e9b5201ffbe77944186700c9d4bc2c10
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_20
+      name: idle1_20
       rect:
         serializedVersion: 2
-        x: 296
-        y: 880
-        width: 148
-        height: 110
+        x: 372
+        y: 893
+        width: 70
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -585,19 +585,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 050c7a1122f2d9847b6fc9232085c2a6
+      spriteID: 368efa977471c1644a1c41e02c991d1a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_21
+      name: idle1_21
       rect:
         serializedVersion: 2
-        x: 444
-        y: 880
-        width: 148
-        height: 110
+        x: 520
+        y: 893
+        width: 70
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -605,19 +605,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ac824ca97aabcd4687c17b35cfa927a
+      spriteID: a34a03e1c72fca74b8aedef93244b457
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_22
+      name: idle1_22
       rect:
         serializedVersion: 2
-        x: 592
-        y: 880
-        width: 148
-        height: 110
+        x: 668
+        y: 893
+        width: 70
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -625,19 +625,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f83d6feff13bd444a91ebc63cd646cde
+      spriteID: 65c8cc5ce3e15ea45b0ee24cabce9c82
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_23
+      name: idle1_23
       rect:
         serializedVersion: 2
-        x: 740
-        y: 880
-        width: 148
-        height: 110
+        x: 816
+        y: 893
+        width: 70
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -645,19 +645,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f4a6d8c32394c0489e08921c9ceb998
+      spriteID: e5a37f3abc3c9f145b7ffc20ceca1df9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_24
+      name: idle1_24
       rect:
         serializedVersion: 2
-        x: 0
-        y: 770
-        width: 148
-        height: 110
+        x: 76
+        y: 783
+        width: 70
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -665,19 +665,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 398feb7cfb9245a41a353ec2015f317e
+      spriteID: 950e17b7e411e764ba88254c6f902ec5
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_25
+      name: idle1_25
       rect:
         serializedVersion: 2
-        x: 148
-        y: 770
-        width: 148
-        height: 110
+        x: 224
+        y: 783
+        width: 70
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -685,19 +685,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4b46ce562f9e4d0488bac4990d4b3df0
+      spriteID: bcce7fe333ad2964fa59afdd8bed8bf6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_26
+      name: idle1_26
       rect:
         serializedVersion: 2
-        x: 296
-        y: 770
-        width: 148
-        height: 110
+        x: 372
+        y: 783
+        width: 70
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -705,19 +705,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fdbc14fe0b8171243a743886a66becb5
+      spriteID: 8118ea9c10618394188bdc4a9d684b70
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_27
+      name: idle1_27
       rect:
         serializedVersion: 2
-        x: 444
-        y: 770
-        width: 148
-        height: 110
+        x: 520
+        y: 783
+        width: 70
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -725,19 +725,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e843f7bb344d08e459fc97b264fa6672
+      spriteID: 8e0a12c61cfaaa64a9c90ea2700902c8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_28
+      name: idle1_28
       rect:
         serializedVersion: 2
-        x: 592
-        y: 770
-        width: 148
-        height: 110
+        x: 668
+        y: 783
+        width: 70
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -745,19 +745,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a38dae0fe5c21d4dbfef2d1309aecef
+      spriteID: 4787c8596294e5043b16979130d16240
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_29
+      name: idle1_29
       rect:
         serializedVersion: 2
-        x: 740
-        y: 770
-        width: 148
-        height: 110
+        x: 816
+        y: 783
+        width: 70
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -765,19 +765,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62b47b2412a9bf64b977aad8039cd6d4
+      spriteID: 65547d9a8b9674340bef16a2ed48c749
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_30
+      name: idle1_30
       rect:
         serializedVersion: 2
-        x: 0
-        y: 660
-        width: 148
-        height: 110
+        x: 76
+        y: 673
+        width: 70
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -785,19 +785,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b1c48e4a14208d24991c3ed285beccc2
+      spriteID: c785059358919654cbc490a2aa090e3e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_31
+      name: idle1_31
       rect:
         serializedVersion: 2
-        x: 148
-        y: 660
-        width: 148
-        height: 110
+        x: 224
+        y: 673
+        width: 70
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -805,19 +805,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26261de24685d9f4b9d1ecffc6ae18bd
+      spriteID: 41a59d156958d1a4592bf3e0efc1a9d5
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_32
+      name: idle1_32
       rect:
         serializedVersion: 2
-        x: 296
-        y: 660
-        width: 148
-        height: 110
+        x: 372
+        y: 673
+        width: 70
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -825,19 +825,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17c1c402090fc3447bd51fb2ff9e91a7
+      spriteID: 1dd633a2f2d14244bbe0a7d09b7a163f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_33
+      name: idle1_33
       rect:
         serializedVersion: 2
-        x: 444
-        y: 660
-        width: 148
-        height: 110
+        x: 520
+        y: 673
+        width: 70
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -845,19 +845,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 116069e1c4b85a248ac642411f466f52
+      spriteID: 8fba26c11adf7574192f7df29ac2519c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_34
+      name: idle1_34
       rect:
         serializedVersion: 2
-        x: 592
-        y: 660
-        width: 148
-        height: 110
+        x: 668
+        y: 673
+        width: 70
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -865,19 +865,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0fd1e55b5d0deee4fa4ce2889d13b9cb
+      spriteID: 4d14ac2272435eb4ca5caf1ffd4f6472
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_35
+      name: idle1_35
       rect:
         serializedVersion: 2
-        x: 740
-        y: 660
-        width: 148
-        height: 110
+        x: 816
+        y: 673
+        width: 70
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -885,19 +885,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55762ee5644b0d8499cd9de9fbbe9d3e
+      spriteID: 40d3793ed6440d945b9ca6ce5eac814a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_36
+      name: idle1_36
       rect:
         serializedVersion: 2
-        x: 0
-        y: 550
-        width: 148
-        height: 110
+        x: 76
+        y: 563
+        width: 70
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -905,19 +905,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d73493965f12d5942ba999e78428a059
+      spriteID: b76d90439bb344a409902badfc1c86f4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_37
+      name: idle1_37
       rect:
         serializedVersion: 2
-        x: 148
-        y: 550
-        width: 148
-        height: 110
+        x: 224
+        y: 563
+        width: 70
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -925,19 +925,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6430ecaa676ca604ba044e27df54628d
+      spriteID: 5bbee1dbd88f90d408d2ef31dde6fa37
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_38
+      name: idle1_38
       rect:
         serializedVersion: 2
-        x: 296
-        y: 550
-        width: 148
-        height: 110
+        x: 372
+        y: 563
+        width: 70
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -945,19 +945,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b492b0c99d854047ae8979fdd66761f
+      spriteID: 0be02d0fdc0f699468992a108d67d082
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_39
+      name: idle1_39
       rect:
         serializedVersion: 2
-        x: 444
-        y: 550
-        width: 148
-        height: 110
+        x: 520
+        y: 563
+        width: 70
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -965,19 +965,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70368f949afbfc746979de4d943d23d8
+      spriteID: fb28232c9ae626f499bbf9ef26897b27
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_40
+      name: idle1_40
       rect:
         serializedVersion: 2
-        x: 592
-        y: 550
-        width: 148
-        height: 110
+        x: 668
+        y: 563
+        width: 70
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -985,19 +985,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8535828d03a9864ca8d2a94710a4d09
+      spriteID: 0897373ef4d57524c8d7153aa9be29b0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_41
+      name: idle1_41
       rect:
         serializedVersion: 2
-        x: 740
-        y: 550
-        width: 148
-        height: 110
+        x: 816
+        y: 563
+        width: 70
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1005,19 +1005,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed7b291cf3849164d91f3f3bb777378d
+      spriteID: 91de47f1b56189b44bebbe32991605d0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_42
+      name: idle1_42
       rect:
         serializedVersion: 2
-        x: 0
-        y: 440
-        width: 148
-        height: 110
+        x: 76
+        y: 453
+        width: 70
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1025,19 +1025,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8dc32ab667954b64b9ecc68651e22e54
+      spriteID: 6678647ea8c8a3c4a91c2ae181008d2f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_43
+      name: idle1_43
       rect:
         serializedVersion: 2
-        x: 148
-        y: 440
-        width: 148
-        height: 110
+        x: 224
+        y: 453
+        width: 70
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1045,19 +1045,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c2ae7b57c9b3124bad8d3f10fb12ea9
+      spriteID: 06a254688a7888349a92db22765d499f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_44
+      name: idle1_44
       rect:
         serializedVersion: 2
-        x: 296
-        y: 440
-        width: 148
-        height: 110
+        x: 372
+        y: 453
+        width: 70
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1065,19 +1065,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c0518a5e1e3acf4595a028c85304c2f
+      spriteID: 84b806e0eadb13749b57c282137e3d1c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_45
+      name: idle1_45
       rect:
         serializedVersion: 2
-        x: 444
-        y: 440
-        width: 148
-        height: 110
+        x: 520
+        y: 453
+        width: 70
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1085,19 +1085,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92f99333745a2854d8480c156844f1a2
+      spriteID: b9b20dbd7dc63134b926b052dcd02f4a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_46
+      name: idle1_46
       rect:
         serializedVersion: 2
-        x: 592
-        y: 440
-        width: 148
-        height: 110
+        x: 668
+        y: 453
+        width: 70
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1105,19 +1105,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ea922a0e0a032d4fb013698b5393cb1
+      spriteID: ed942773d4f7c394ea8cfb9bf99c28c6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_47
+      name: idle1_47
       rect:
         serializedVersion: 2
-        x: 740
-        y: 440
-        width: 148
-        height: 110
+        x: 816
+        y: 453
+        width: 70
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1125,19 +1125,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74b6b477c81b0714795774880076c52f
+      spriteID: 1ab787041a6b3f247bae0aad2e3f244e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_48
+      name: idle1_48
       rect:
         serializedVersion: 2
-        x: 0
-        y: 330
-        width: 148
-        height: 110
+        x: 76
+        y: 343
+        width: 70
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1145,19 +1145,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80f9f03eb7f77a24cbdecb38eb14c6f2
+      spriteID: 9746f03bc2f415a43b5507ac07d1113b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_49
+      name: idle1_49
       rect:
         serializedVersion: 2
-        x: 148
-        y: 330
-        width: 148
-        height: 110
+        x: 224
+        y: 343
+        width: 70
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1165,19 +1165,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7478eb1ca48da8c4083ef3c3bf3bdaf7
+      spriteID: b9a2e852ab71bf34fa05beffcda3c09a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_50
+      name: idle1_50
       rect:
         serializedVersion: 2
-        x: 296
-        y: 330
-        width: 148
-        height: 110
+        x: 372
+        y: 343
+        width: 70
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1185,19 +1185,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb7e1f36a33813e4e8fd16f919d7bc18
+      spriteID: 9726bcd066a443d4baa2c4dabc7d4b9d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_51
+      name: idle1_51
       rect:
         serializedVersion: 2
-        x: 444
-        y: 330
-        width: 148
-        height: 110
+        x: 520
+        y: 343
+        width: 67
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1205,19 +1205,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae80f792901660840be94c85848127cc
+      spriteID: c1c4851633c1ee047967326e33f7964f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_52
+      name: idle1_52
       rect:
         serializedVersion: 2
-        x: 592
-        y: 330
-        width: 148
-        height: 110
+        x: 668
+        y: 343
+        width: 63
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1225,19 +1225,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7235edcd4a9ee8f43a762e5dd3fd307e
+      spriteID: 0809a279ebd978b478e816a9896fea6e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_53
+      name: idle1_53
       rect:
         serializedVersion: 2
-        x: 740
-        y: 330
-        width: 148
-        height: 110
+        x: 816
+        y: 343
+        width: 60
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1245,19 +1245,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb3ca9ca7d02e024b984550e60fb973d
+      spriteID: cc761c858fd73cf4595248e7c509a4cc
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_54
+      name: idle1_54
       rect:
         serializedVersion: 2
-        x: 0
-        y: 220
-        width: 148
-        height: 110
+        x: 76
+        y: 233
+        width: 56
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1265,19 +1265,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e693ac832279b64fba14985f8567bfb
+      spriteID: 12984a7be4b6e5f4299070b67b73df63
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_55
+      name: idle1_55
       rect:
         serializedVersion: 2
-        x: 148
-        y: 220
-        width: 148
-        height: 110
+        x: 224
+        y: 233
+        width: 57
+        height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1285,19 +1285,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed6cfe2e25fb4f14aaae41fbca199511
+      spriteID: 7f10caeaa456ffa438e3e6746f112d6e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_56
+      name: idle1_56
       rect:
         serializedVersion: 2
-        x: 296
-        y: 220
-        width: 148
-        height: 110
+        x: 372
+        y: 233
+        width: 57
+        height: 63
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1305,19 +1305,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5aee23b768635ed4496e321746789096
+      spriteID: c573bd139c3f51c4889b64320983a75b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_57
+      name: idle1_57
       rect:
         serializedVersion: 2
-        x: 444
-        y: 220
-        width: 148
-        height: 110
+        x: 520
+        y: 233
+        width: 57
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1325,19 +1325,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cec344567700b2446956fb0fad37539d
+      spriteID: d3de2635ce417dc4f8e584e1c4829deb
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_58
+      name: idle1_58
       rect:
         serializedVersion: 2
-        x: 592
-        y: 220
-        width: 148
-        height: 110
+        x: 668
+        y: 233
+        width: 57
+        height: 63
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1345,19 +1345,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14075c4a7e7fe06489b1f931909f4a76
+      spriteID: f68614b61e7f6f44cb6554fd7e75f4d6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_59
+      name: idle1_59
       rect:
         serializedVersion: 2
-        x: 740
-        y: 220
-        width: 148
-        height: 110
+        x: 816
+        y: 233
+        width: 57
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1365,19 +1365,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a4903d6cfcee01e4abbbf702a7bf6a63
+      spriteID: 0c7a9b202553a534c8f40e94a97eae25
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_60
+      name: idle1_60
       rect:
         serializedVersion: 2
-        x: 0
-        y: 110
-        width: 148
-        height: 110
+        x: 76
+        y: 123
+        width: 57
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1385,19 +1385,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb93880c482767945b1d3a541143b45e
+      spriteID: 55219847737e51143ad723098b8221aa
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_61
+      name: idle1_61
       rect:
         serializedVersion: 2
-        x: 148
-        y: 110
-        width: 148
-        height: 110
+        x: 224
+        y: 123
+        width: 57
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1405,19 +1405,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 639627b0d999a03499bec8f8b5ea6742
+      spriteID: 2c36eaa9881ff5c41ac52ca60f78c671
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_62
+      name: idle1_62
       rect:
         serializedVersion: 2
-        x: 296
-        y: 110
-        width: 148
-        height: 110
+        x: 372
+        y: 123
+        width: 57
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1425,19 +1425,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8855dc4e1b62414a89fa21fa3bb5992
+      spriteID: 0016d0a0189df5b4f80fddbfadd9ebfe
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_63
+      name: idle1_63
       rect:
         serializedVersion: 2
-        x: 444
-        y: 110
-        width: 148
-        height: 110
+        x: 520
+        y: 123
+        width: 57
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1445,19 +1445,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 162cfd4e715382947ad55c6bbd9c1a61
+      spriteID: 1554a83ba35276042bf9d8780b0b458d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_64
+      name: idle1_64
       rect:
         serializedVersion: 2
-        x: 592
-        y: 110
-        width: 148
-        height: 110
+        x: 668
+        y: 123
+        width: 57
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1465,19 +1465,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e49cddb13027fb428fbefb88a41ddab
+      spriteID: 5ef6db8d2ad521e468e169c1d31e0e31
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_65
+      name: idle1_65
       rect:
         serializedVersion: 2
-        x: 740
-        y: 110
-        width: 148
-        height: 110
+        x: 816
+        y: 123
+        width: 57
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1485,19 +1485,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 072883cacd6e5ee4bab9297015aeae4e
+      spriteID: 8d3deb88228ef5d46bd7f9bcf7e6c60e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_idle1_66
+      name: idle1_66
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 148
-        height: 110
+        x: 76
+        y: 13
+        width: 57
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1505,7 +1505,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 551c400a3f0482e4593cadde8df0d5b6
+      spriteID: 7fd01381eeee83847924ac340ff69c58
       vertices: []
       indices: 
       edges: []
@@ -1513,7 +1513,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 1abeb000609468d439f03941fd2c6789
+    spriteID: 15708857f8df52d4a8bb9c3c56ad9ceb
     vertices: []
     indices: 
     edges: []
