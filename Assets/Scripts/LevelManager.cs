@@ -12,6 +12,8 @@ public class LevelManager : MonoBehaviour
     {
         if (autoLoadNextLevelDelay > 0) // probably only used for the splash screen
             Invoke("LoadNextLevel", autoLoadNextLevelDelay);
+        else
+            Debug.Log("Auto load next level disabled. Use a positive number in seconds.");
     }
 
    public void LoadNextLevel()

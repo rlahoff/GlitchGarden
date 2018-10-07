@@ -10,6 +10,7 @@ public class FadeInOut : MonoBehaviour {
     private Image fadePanel;
     private Color currentColor = Color.black;
 
+    // the FadeInOut script was disabled to allow fade in out control by Animation
 
 	// Use this for initialization
 	void Start () {
