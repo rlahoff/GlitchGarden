@@ -22,9 +22,9 @@ GameObject:
   - component: {fileID: 95998910252371930}
   - component: {fileID: 114271293616933270}
   - component: {fileID: 114158410577036926}
+  - component: {fileID: 114420571823237988}
   - component: {fileID: 61683476720546228}
   - component: {fileID: 50523487527273762}
-  - component: {fileID: 114420571823237988}
   m_Layer: 0
   m_Name: Fox
   m_TagString: Untagged
@@ -160,6 +160,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4927de529142268428976a2d1521f9ec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spawnFrequency: 3
 --- !u!114 &114420571823237988
 MonoBehaviour:
   m_ObjectHideFlags: 1

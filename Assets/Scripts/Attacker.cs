@@ -8,6 +8,8 @@ public class Attacker : MonoBehaviour {
 
     //[Range(-1f, 1.5f)] public 
     float speed;
+    [Tooltip ("Average number of seconds between spawns")]
+        public float spawnFrequency;
     private GameObject currentTarget;
     private Animator animator;
 
@@ -36,7 +38,7 @@ public class Attacker : MonoBehaviour {
     // called from the animator during attack
     public void StrikeTarget(float damage)
     {
-        Debug.Log(name + "  StrikeTarget " + damage);
+        //Debug.Log(name + "  StrikeTarget " + damage);
 
         if (currentTarget)
         {

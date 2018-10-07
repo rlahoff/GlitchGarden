@@ -21,10 +21,10 @@ GameObject:
   - component: {fileID: 4807330603314992}
   - component: {fileID: 114774590546812212}
   - component: {fileID: 114879997532840870}
+  - component: {fileID: 114127868933419262}
   - component: {fileID: 61051035386951120}
   - component: {fileID: 95102880748319210}
   - component: {fileID: 50826143406098094}
-  - component: {fileID: 114127868933419262}
   m_Layer: 0
   m_Name: Lizard
   m_TagString: Untagged
@@ -161,6 +161,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4927de529142268428976a2d1521f9ec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spawnFrequency: 5
 --- !u!114 &114879997532840870
 MonoBehaviour:
   m_ObjectHideFlags: 1
