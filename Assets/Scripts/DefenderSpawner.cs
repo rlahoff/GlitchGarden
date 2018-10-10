@@ -7,6 +7,7 @@ public class DefenderSpawner : MonoBehaviour {
     public Camera myCamera;
 
     private GameObject parent; // this is the Defenders gameObject in the Hierarchy
+    private StarDisplay starDisplay;
 
     // Use this for initialization
     void Start()
@@ -18,6 +19,7 @@ public class DefenderSpawner : MonoBehaviour {
             parent = new GameObject("Defenders");
         }
 
+        starDisplay = GameObject.FindObjectOfType<StarDisplay>();
     }
 
 
@@ -30,7 +32,12 @@ public class DefenderSpawner : MonoBehaviour {
     {
         if (!Button.selectedDefender) return;
 
-        Instantiate(Button.selectedDefender, SnapToGrid(CalcWorldPoint(Input.mousePosition)), Quaternion.identity, parent.transform);
+        // only create defender if there are enough stars to pay for it
+
+        if (starDisplay.UseStars(Button.selectedDefender.GetComponent<Defender>().starCost) == StarDisplay.Status.FAILURE)
+            Debug.Log("not enough stars");
+        else
+            Instantiate(Button.selectedDefender, SnapToGrid(CalcWorldPoint(Input.mousePosition)), Quaternion.identity, parent.transform);
         //Debug.Log(SnapToGrid(CalcWorldPoint(Input.mousePosition)));
     }
 

@@ -4,11 +4,13 @@ using UnityEngine;
 
 public class Defender : MonoBehaviour {
 
-    // currently only being used as a tag (other scripts check to see if there is a defender component
+    // originally only used as a tag (other scripts check to see if there is a defender component
+    public int starCost = 100;
+    private StarDisplay starDisplay;
 
 	// Use this for initialization
 	void Start () {
-		
+        starDisplay = GameObject.FindObjectOfType<StarDisplay>();
 	}
 	
 	// Update is called once per frame
@@ -16,8 +18,8 @@ public class Defender : MonoBehaviour {
 		
 	}
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    public void AddStars(int amount)
     {
-        //Debug.Log(name + "  OnTriggerEnter2D");
+        starDisplay.AddStars(amount);
     }
 }
